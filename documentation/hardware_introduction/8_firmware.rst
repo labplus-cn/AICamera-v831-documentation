@@ -1,17 +1,17 @@
 mPython烧录系统固件（支持Win平台）
 ================================
-打开mPyhton软件，硬件模式-设置-切换至“1956”模式
+打开mPyhton软件，硬件模式-设置-切换至“AI摄像头”模式
 
-.. figure:: /_static/image/firmware_tutorial/1956.png
+.. figure:: /_static/image/firmware_tutorial/AI摄像头.png
     :align: center
     :width: 1000
 
 `mPython下载链接 <https://labplus.cn/software>`_
 
-将1956连接至电脑
+将AI摄像头连接至电脑
 -------------------
 准备一根Type-C，一根双头USB-A
-将1956用两根线数据线连接电脑
+将AI摄像头用两根线数据线连接电脑
 
 .. figure:: /_static/image/firmware_tutorial/link.jpg
     :align: center

@@ -1,4 +1,5 @@
 # AI摄像头在线文档仓库
+https://aicamera-v831-documentation.readthedocs.io/zh/latest/
 
 ## AI摄像头在线文档
 
@@ -27,7 +28,7 @@ example 示例
 
 faq 常见问题解答，帮助支持
 
-hardware_introduction 1956介绍
+hardware_introduction AI摄像头介绍
 
 programming_mode 编程工具介绍
 
@@ -36,4 +37,4 @@ tutorials 教程
 _build 编译文件目录
 
 ## readthedocs在线文档管理
-https://readthedocs.org/projects/1956-docs/
+https://readthedocs.org/projects/aicamera-v831-documentation/
