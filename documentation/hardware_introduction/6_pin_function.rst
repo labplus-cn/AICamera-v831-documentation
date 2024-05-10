@@ -6,7 +6,3 @@
     :align: center
     :width: 2270
 
-
-.. figure:: /_static/image/IO-2.png
-    :align: center
-    :width: 1080

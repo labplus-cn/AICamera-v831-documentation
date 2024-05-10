@@ -15,7 +15,6 @@ AI摄像头帮助文档
     hardware_introduction/1_introduce.rst
     hardware_introduction/2_characteristic.rst
     hardware_introduction/3_function.rst
-    hardware_introduction/4_system_framework_diagram.rst
     hardware_introduction/5_hardware_parameters.rst
     hardware_introduction/6_pin_function.rst
     hardware_introduction/8_firmware.rst
@@ -27,32 +26,32 @@ AI摄像头帮助文档
     programming_mode/index
 
 .. toctree::
-    :maxdepth: 3
-    :caption: 三、GUI
+    :maxdepth: 4
+    :caption: AI示例
     :titlesonly:
     :numbered: 
-    
-    gui/widgets/bar.rst
-    gui/widgets/btn.rst
-    gui/widgets/cb.rst
-    gui/widgets/chart.rst
-    gui/widgets/dropdown.rst
-    gui/widgets/img.rst
-    gui/widgets/label.rst
-    gui/widgets/led.rst
-    gui/widgets/msgbox.rst
-    gui/widgets/slider.rst
-    gui/widgets/spinbox.rst
-    gui/widgets/switch.rst
-    gui/widgets/table.rst
-    gui/widgets/textarea.rst
+
+    example/1_face_detect
+    example/2_face_recognization.rst
+    example/3_guidepost
+    example/4_mnist.rst  
+    example/5_resnet18_model.rst
+    example/6_yolo_model.rst
+    example/7_qrcode.rst
+    example/7_AprilTag.rst
+    example/8_self_learning_classifier.rst
+    example/9_visual_tracking.rst
+    example/10_yolo_detect.rst
+    example/11_track.rst
+
 
 .. toctree::
-    :maxdepth: 2
-    :caption: 四、示例
+    :maxdepth: 3
+    :caption: API
+    :titlesonly:
+    :numbered: 
 
-    example/1_sensor
-    example/2_io
+    
 
 .. toctree::
     :maxdepth: 2

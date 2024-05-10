@@ -1,4 +1,4 @@
-AI摄像头开发板介绍
+AI摄像头介绍
 ======================================================
    hardware_introduction/1_introduce.rst
    hardware_introduction/2_characteristic.rst
