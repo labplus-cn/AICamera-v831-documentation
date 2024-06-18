@@ -10,18 +10,20 @@
     import time
 
     camera = CameraV831(tx=Pin.P16, rx=Pin.P15)
-    camera.mnist_init()
+    camera.qrcode_init()
+    camera.qrcode.add_qrcode(1)
     while True:
-        camera.mnist.recognize()
-        if camera.mnist.id != None:
-            print(camera.mnist.id)
-            print(camera.mnist.max_score)
+        camera.qrcode.recognize()
+        if camera.qrcode.id != None:
+            print(camera.qrcode.id)
+            print(camera.qrcode.info)
         time.sleep_ms(20)
+
 
 
 mPython图形化
 -----------
-.. figure:: /_static/image/example/mnist/mnist.png
+.. figure:: /_static/image/example/qrcode/qrcode.png
     :align: center
     :width: 1080
 

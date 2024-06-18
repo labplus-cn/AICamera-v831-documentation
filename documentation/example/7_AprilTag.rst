@@ -10,18 +10,21 @@ AprilTag识别
     import time
 
     camera = CameraV831(tx=Pin.P16, rx=Pin.P15)
-    camera.mnist_init()
+    camera.apriltag_init()
+    camera.apriltag.set_tag_families(16)
     while True:
-        camera.mnist.recognize()
-        if camera.mnist.id != None:
-            print(camera.mnist.id)
-            print(camera.mnist.max_score)
+        camera.apriltag.recognize()
+        if camera.apriltag.tag_family != None:
+            print(camera.apriltag.tag_id)
+            print(camera.apriltag.x_tran)
+            print(camera.apriltag.x_rol)
+            print(camera.apriltag.length)
         time.sleep_ms(20)
 
 
 mPython图形化
 -----------
-.. figure:: /_static/image/example/mnist/mnist.png
+.. figure:: /_static/image/example/qrcode/AprilTag.png
     :align: center
     :width: 1080
 

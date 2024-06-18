@@ -2,7 +2,3 @@
 ==============
 
 
-.. figure:: /_static/image/IO-1.png
-    :align: center
-    :width: 2270
-
