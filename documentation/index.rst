@@ -24,10 +24,11 @@ AI摄像头帮助文档
     :caption: 二、编程方式
    
     programming_mode/index
+    programming_mode/hardware_connection
 
 .. toctree::
     :maxdepth: 4
-    :caption: AI示例
+    :caption: 三、AI示例
     :titlesonly:
     :numbered: 
 
