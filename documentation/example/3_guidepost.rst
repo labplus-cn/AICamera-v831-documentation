@@ -22,7 +22,7 @@
 
 
 
-mPython图形化
+mPython图形化示例
 -----------
 .. figure:: /_static/image/example/guidepost/guidepost.png
     :align: center

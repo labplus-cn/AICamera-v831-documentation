@@ -20,7 +20,7 @@ AI摄像头帮助文档
     hardware_introduction/8_firmware.rst
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 3
     :caption: 二、编程方式
    
     programming_mode/index
@@ -28,10 +28,11 @@ AI摄像头帮助文档
 
 .. toctree::
     :maxdepth: 4
-    :caption: 三、AI示例
+    :caption: 三、示例
     :titlesonly:
     :numbered: 
 
+    example/0_init
     example/1_face_detect
     example/2_face_recognization.rst
     example/3_guidepost
@@ -43,7 +44,8 @@ AI摄像头帮助文档
     example/8_self_learning_classifier.rst
     example/9_visual_tracking.rst
     example/10_yolo_detect.rst
-    example/11_track.rst
+    example/11_color.rst
+    example/12_track.rst
 
 
 .. toctree::

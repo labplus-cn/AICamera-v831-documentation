@@ -26,7 +26,7 @@
 
 
 
-mPython图形化
+mPython图形化示例
 -----------
 .. figure:: /_static/image/example/self_learning_classifier/1.png
     :align: center

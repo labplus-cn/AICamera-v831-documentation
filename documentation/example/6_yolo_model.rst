@@ -21,7 +21,7 @@
         time.sleep_ms(10)
 
 
-mPython图形化
+mPython图形化示例
 -----------
 .. figure:: /_static/image/example/model_detect/1.png
     :align: center

@@ -21,7 +21,7 @@
 
 
 
-mPython图形化
+mPython图形化示例
 -----------
 .. figure:: /_static/image/example/qrcode/qrcode.png
     :align: center

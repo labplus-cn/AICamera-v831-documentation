@@ -22,7 +22,7 @@ AprilTag识别
         time.sleep_ms(20)
 
 
-mPython图形化
+mPython图形化示例
 -----------
 .. figure:: /_static/image/example/qrcode/AprilTag.png
     :align: center

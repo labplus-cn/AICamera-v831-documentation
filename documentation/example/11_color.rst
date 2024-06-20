@@ -21,7 +21,7 @@
 
 
 
-mPython图形化
+mPython图形化示例
 -----------
 .. figure:: /_static/image/example/color/color.png
     :align: center
@@ -48,7 +48,7 @@ LAB颜色提取
 
 
 
-mPython图形化
+mPython图形化示例
 -----------
 .. figure:: /_static/image/example/color/color.png
     :align: center

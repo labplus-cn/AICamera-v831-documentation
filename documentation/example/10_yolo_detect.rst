@@ -19,7 +19,7 @@
         time.sleep_ms(20)
 
 
-mPython图形化
+mPython图形化示例
 -----------
 .. figure:: /_static/image/example/yolo_detect/yolo_detect.png
     :align: center
