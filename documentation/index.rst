@@ -58,7 +58,7 @@ AI摄像头帮助文档
 
 .. toctree::
     :maxdepth: 2
-    :caption: 五、教程
+    :caption: 四、API
 
     tutorials/index
 
@@ -67,13 +67,13 @@ AI摄像头帮助文档
 
 .. toctree::
    :maxdepth: 2
-   :caption: 八、常见问题
+   :caption: 六、常见问题
 
    faq/index
    faq/technical_exchange
 
 .. toctree::
    :maxdepth: 1
-   :caption: 九、版权
+   :caption: 七、版权
 
    LICENSE
